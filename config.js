@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không:3',
     question:'Tôi biết mà bạn muốn nói điều gì với tôi không?',
     btnReply: 'Gửi cho Thưởng',
-    reply: 'Ok',
+  
     mess: ' Tôi sẽ ko thấy câu hỏi này đâu, nên nếu muốn nói gì hãy ib cho tôi được không',
     messDesc: 'Tạm biệt ',
     btnAccept: 'Okiiii',
