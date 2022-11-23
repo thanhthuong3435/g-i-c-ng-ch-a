@@ -1,18 +1,16 @@
 const CONFIG = {
-    introTitle: 'Cậu à!',
-    introDesc: `Vào một ngày đẹp trời
-    Tớ nhận ra cậu thật sự xinh đẹp
-    Trả lời tớ câu hỏi này`,
-    btnIntro: 'Oki',
-    title: 'Tớ rất được',
+    introTitle: 'Chào!',
+    introDesc: `Bạn đã nhấp vào, bạn cần nói cho tôi biết một số điều`,
+    btnIntro: 'Oke',
+    title: 'Bạn tò mò về tôi',
     desc: 'Đúng không?',
-    btnYes: 'Đúng vậy, đc lắm',
+    btnYes: 'Đúng rồi',
     btnNo: 'Không:3',
-    question:'Tớ biết mà cậu muốn nói điều gì với tớ không?',
-    btnReply: 'Gửi cho Thưởng đẹp trai',
+    question:'Tôi biết mà bạn muốn nói điều gì với tôi không?',
+    btnReply: 'Gửi cho Thưởng',
     reply: 'Ok',
-    mess: ' Tớ biết mà 🥰. Thank kiuuuuuu😘😘',
-    messDesc: 'Chào xinh đẹp nhé',
-    btnAccept: 'Okiiiii',
-    messLink: 'https://www.facebook.com/ngoccnhann.giaii' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: ' Tôi sẽ ko thấy câu hỏi này đâu, nên nếu muốn nói gì hãy ib cho tôi được không',
+    messDesc: 'Tạm biệt ',
+    btnAccept: 'Okiiii',
+    messLink: 'https://www.instagram.com/th_thg16.04' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
